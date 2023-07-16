@@ -74,10 +74,14 @@ nav li a{
    
     line-height: 26px;
 }
-
+/* .img{
+    max-width: 1000px;
+   
+} */
 .banner img{
     width: 100%;
    margin-top: 30px;
+   /* margin: 20px 110px; */
     
 }  
    
@@ -86,7 +90,7 @@ nav li a{
 
 @media screen and (max-width:576px) {
      header{
-        padding: 20px;
+        padding: 25px;
      }
      nav{
         flex-direction: column;
